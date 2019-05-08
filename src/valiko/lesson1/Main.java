@@ -37,7 +37,7 @@ public class Main {
                    System.out.println();
                    break;
                default:
-                   System.out.println("შეიყვანეთ 1-დან 4-მდე ციფრი");
+                   System.out.println("შეიყვანეთ 1-დან 4--მდე ციფრი");
                    System.out.println();
                    break;
            }
